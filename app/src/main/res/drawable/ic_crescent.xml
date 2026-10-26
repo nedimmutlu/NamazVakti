@@ -1,0 +1,10 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
+    <!-- Zarif Hilal ve Yıldız Simgesi -->
+    <path
+        android:fillColor="#FFFFFFFF"
+        android:pathData="M12,2C6.48,2 2,6.48 2,12s4.48,10 10,10c2.31,0 4.43,-0.79 6.13,-2.11 -5.26,-0.47 -9.4,-4.9 -9.4,-10.3 0,-3.45 1.66,-6.5 4.22,-8.42C12.63,2.06 12.32,2 12,2zM17.5,7.5l0.87,1.88L20.25,9.75l-1.5,1.38 0.44,2.02L17.5,12.12l-1.69,1.03 0.44,-2.02 -1.5,-1.38 1.88,-0.37L17.5,7.5z"/>
+</vector>

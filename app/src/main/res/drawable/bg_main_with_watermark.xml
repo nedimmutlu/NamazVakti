@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Problem 4: Arka plan Gradient katmanı ve tam ortasında düşük opaklıkta logo filigranı -->
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Katman 1: Gece mavisi - Koyu teal gradient geçişi -->
+    <item android:drawable="@drawable/bg_gradient" />
+
+    <!-- Katman 2: Merkeze yerleştirilmiş çok düşük opaklıklı (%5-%10) logo filigranı -->
+    <item
+        android:gravity="center"
+        android:drawable="@drawable/ic_app_logo_watermark" />
+</layer-list>

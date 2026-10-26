@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Namaz Vakti</string>
+    <string name="widget_description">Namaz vakitleri, sıradaki vakte kalan süre ve hicri tarih</string>
+</resources>

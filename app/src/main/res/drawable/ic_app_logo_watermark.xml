@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Problem 4: Uygulama logosu / sembolü (%7-%8 opacity/saydamlık ile filigran) -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="260dp"
+    android:height="260dp"
+    android:viewportWidth="100"
+    android:viewportHeight="100">
+    <!-- Hilal ve Kubbe Vektör Çizimi - Renk: #14FFFFFF (%8 şeffaf beyaz) -->
+    <path
+        android:fillColor="@color/watermark_tint"
+        android:pathData="M50,15 C43,15 37,20 35,27 C32,27 28,30 28,35 C28,40 32,45 35,47 L35,80 L65,80 L65,47 C68,45 72,40 72,35 C72,30 68,27 65,27 C63,20 57,15 50,15 Z M50,8 C52,8 54,9 54,11 L54,15 L46,15 L46,11 C46,9 48,8 50,8 Z" />
+    <!-- Minare ve İnce Hilal Figürü -->
+    <path
+        android:fillColor="@color/watermark_tint"
+        android:pathData="M50,2 C51.5,4 52,6 51,8 C47,7 44,4 46,2 C47.5,1 48.5,1 50,2 Z" />
+    <path
+        android:fillColor="@color/watermark_tint"
+        android:pathData="M20,55 L25,55 L25,80 L20,80 Z M75,55 L80,55 L80,80 L75,80 Z" />
+</vector>

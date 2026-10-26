@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Filigran logo: %7 saydamlıkta merkezde -->
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:drawable="@drawable/ic_app_logo_watermark"
+        android:gravity="center"
+        android:width="200dp"
+        android:height="200dp" />
+</layer-list>
